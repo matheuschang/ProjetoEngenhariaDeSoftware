@@ -1,5 +1,5 @@
 # ProjetoEngenhariaDeSoftware
-Projeto de Engenharia de Software 5N
+Metodologias de desenvolvimentos de software para o projeto de Engenharia de Software
 
 
 ## Grupo:

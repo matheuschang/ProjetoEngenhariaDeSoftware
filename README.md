@@ -13,3 +13,6 @@ Metodologias de desenvolvimentos de software para o projeto de Engenharia de Sof
 
 ## Levantamento de Requisitos:
 ![Requisitos](https://github.com/matheuschang/ProjetoEngenhariaDeSoftware/blob/main/img/requisitos.jpeg)
+
+## Diagrama de Classes:
+![DiagramaClasses](https://github.com/matheuschang/ProjetoEngenhariaDeSoftware/blob/main/img/classDiag.png)

@@ -17,5 +17,8 @@ Metodologias de desenvolvimentos de software para o projeto de Engenharia de Sof
 ## Diagrama de Classes:
 ![DiagramaClasses](https://github.com/matheuschang/ProjetoEngenhariaDeSoftware/blob/main/img/classDiag.png)
 
+## Especificação de caso de uso
+![EspecificacaoCasoDeUso](https://github.com/matheuschang/ProjetoEngenhariaDeSoftware/blob/main/img/especificacao_casodeuso.png)
+
 ## Diagrama de Sequência - Receber Pergunta:
 ![DiagramaSequencia](https://github.com/matheuschang/ProjetoEngenhariaDeSoftware/blob/main/img/diagSeq.png)

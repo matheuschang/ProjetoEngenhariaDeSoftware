@@ -17,5 +17,5 @@ Metodologias de desenvolvimentos de software para o projeto de Engenharia de Sof
 ## Diagrama de Classes:
 ![DiagramaClasses](https://github.com/matheuschang/ProjetoEngenhariaDeSoftware/blob/main/img/classDiag.png)
 
-## Diagrama de Sequêmcia - Receber Pergunta:
+## Diagrama de Sequência - Receber Pergunta:
 ![DiagramaSequencia](https://github.com/matheuschang/ProjetoEngenhariaDeSoftware/blob/main/img/diagSeq.png)
